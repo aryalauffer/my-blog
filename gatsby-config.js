@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Old Town Road`,
+    author: `Arya Lauffer`,
+    description: `I'm going to write about horses, books, video games, movies, TV shows and Emma (my dog) and more.`,
+    siteUrl: `https://determined-murdock-e13687.netlify.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `aryalauffer`,
     },
   },
   plugins: [
+    `gatsby-plugin-sass`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
