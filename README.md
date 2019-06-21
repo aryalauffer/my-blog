@@ -5,10 +5,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's blog starter
+  Arya's blog
 </h1>
 
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+This is the source code for Arya's blog.  Arya is 5 years old (almost 6), and her dad is teaching her how technology works while providing ways to allow her to express herself.  All blog posts are written in her own hand.  The tech stuff, however, is currently left to Dad.  If you have any ideas for making the blog better feel free to create issues or pull requests.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
