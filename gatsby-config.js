@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Old Town Road`,
+    title: `Arya's Expressions`,
     author: `Arya Lauffer`,
     description: `I'm going to write about horses, books, video games, movies, TV shows and Emma (my dog) and more.`,
     siteUrl: `https://determined-murdock-e13687.netlify.com`,

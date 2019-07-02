@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "aryas-expressions-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Arya's blog using Gatsby.",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": {
@@ -47,9 +47,7 @@
     "prettier": "^1.17.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": [],
   "license": "MIT",
   "main": "n/a",
   "repository": {
